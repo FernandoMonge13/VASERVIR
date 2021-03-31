@@ -1,0 +1,4 @@
+/home/fernando/Documents/TEC/Prueba/build-Tester-Desktop-Debug/CMakeFiles/edit_cache.dir
+/home/fernando/Documents/TEC/Prueba/build-Tester-Desktop-Debug/CMakeFiles/rebuild_cache.dir
+/home/fernando/Documents/TEC/Prueba/build-Tester-Desktop-Debug/CMakeFiles/Tester.dir
+/home/fernando/Documents/TEC/Prueba/build-Tester-Desktop-Debug/CMakeFiles/Tester_autogen.dir
